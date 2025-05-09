@@ -17,5 +17,6 @@ public class Main {
         // TODO: Google Books API - Pesquisar Livros
         // TODO: API CoinGecko - Pesquisar criptomoedas
         // TODO: API TheMealDB - Pesquisar receitas
+        // TODO: API ViaCEP - Pesquisar CEPs
     }
 }
