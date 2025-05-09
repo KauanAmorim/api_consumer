@@ -1,4 +1,4 @@
-package br.com.nauakavlis.apis;
+package br.com.nauakavlis.interfaces;
 
 import java.io.IOException;
 import java.net.http.HttpResponse;
